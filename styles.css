@@ -1,0 +1,21 @@
+img {
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+}
+li {
+    color: #7df2d5;
+    font-size: 30px;
+    font-family:'Kumar One Outline', cursive;
+}
+p {
+    font-size:30px;
+    font-family:'Kumar One Outline', cursive;
+    color:#6544a3;
+}
+h1 {
+    font-family:'Kumar One Outline', cursive;
+}
+body {
+  background-color: #ef97ae;  
+}
